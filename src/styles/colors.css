@@ -1,5 +1,6 @@
 :root {
-	--white: aliceblue;
-	--black: hsl(0, 0%, 13%);
-	--fullBlack: hsl(0, 0%, 0%);
+	--color-white: aliceblue;
+	--color-black: hsl(0, 0%, 0%);
+	--color-black-s: hsl(0, 0%, 13%);
+	--color-blue: royalblue;
 }
